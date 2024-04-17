@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Montserrat", sans-serif;
+}
+header img{
+    height: 130px;
+}
+header{
+  
+    background-color: black;
+}
+article{
+    height: 50px;
+    width: 100%;
+    background-color: rgb(107, 98, 98);
+}
+article p{ 
+    color: red;
+    font-size: 20px;
+    float: right;
+    padding: 10px;
+}
